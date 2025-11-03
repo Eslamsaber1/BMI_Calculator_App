@@ -22,9 +22,9 @@ A clean and intuitive mobile application built with Flutter that calculates Body
 ## 🎞️ Demo
 
 > *(Insert screenshot(s) or a short GIF of the app here)*  
-> ![OnBoarding_Screen](assets/screenshots/WhatsApp Image 2025-11-03 at 17.41.49_92b6ae3a.jpg)
-> ![Home_Screen](assets/screenshots/WhatsApp Image 2025-11-03 at 17.41.49_1f5f74bf.jpg)
-> ![BMI_Calc_Screen](assets/screenshots/WhatsApp Image 2025-11-03 at 17.41.49_d024a67c.jpg)
+> ![OnBoarding_Screen](assets/screenshots/OnboardingScreen.jpg)
+> ![Home_Screen](assets/screenshots/HomeScreen.jpg)
+> ![BMI_Calc_Screen](assets/screenshots/BmiScreen.jpg)
 
 
 ---
